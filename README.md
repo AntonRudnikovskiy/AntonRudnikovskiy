@@ -5,7 +5,7 @@
 
 ---
 ### 👩‍💻 About Me :
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-P.
 - :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
 
 - :seedling: Currently delving into Technical Content Writing.
