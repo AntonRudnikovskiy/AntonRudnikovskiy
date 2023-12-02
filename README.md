@@ -4,7 +4,7 @@
 </div>
 
 ---
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
 
@@ -14,7 +14,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-rudnikovskiy-505b11291/)
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonRudnikovskiy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonRudnikovskiy&theme=radical)
