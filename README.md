@@ -1,18 +1,14 @@
 # Hey there! 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 ### 👩‍💻 About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-P.
 - :telescope: I’m working as a Software Engineer, I specialize in backend development for web applications.
 
-- :seedling: Currently delving into Technical Content Writing.
+- :seedling: Currently delving into microservers architecture.
 
 - :zap: Passionate about learning and staying updated with tech through reading articles in my leisure.
 
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-rudnikovskiy-505b11291/)
+- 📬 How to reach me: [![Telegram Badge](https://t.me/ambulance24)
 ---
 ### 🛠️ Languages and Tools :
 <div>
