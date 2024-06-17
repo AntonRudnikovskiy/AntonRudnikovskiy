@@ -8,7 +8,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: Passionate about learning and staying updated with tech through reading articles in my leisure.
 
-- 📬 How to reach me: [![](https://img.shields.io/badge/Telegram-%40Telegram-blue)](https://t.me/ambulance24)
+- 📬 How to reach me: [![](https://img.shields.io/badge/Telegram-blue)](https://t.me/ambulance24)
 ---
 ### 🛠️ Languages and Tools :
 <div>
