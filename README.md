@@ -32,7 +32,3 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### 🔥 My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonRudnikovskiy&theme=radical)
 
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonRudnikovskiy&theme=dark&background=000000)](https://git.io/streak-stats)
-
